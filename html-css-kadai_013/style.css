@@ -59,10 +59,7 @@ PC用のスタイル
     color: #0d0d0d;
   }
   
-  #menu-sp {
-    display: none;
-  }
-
+  #menu-sp,
   #nav-sp {
     display: none;
   }
